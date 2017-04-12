@@ -1,0 +1,25 @@
+{
+  "name": "codeceptjs-webdriverio",
+  "version": "1.0.0",
+  "description": "CodeceptJS with WebDriverIO installed",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DavertMik/codeceptjs-webdriverio.git"
+  },
+  "keywords": [
+    "codeceptjs",
+    "webdriverio"
+  ],
+  "author": {
+    "name": "DavertMik",
+    "email": "davert@codegyre.com",
+    "url": "http://codegyre.com"
+  },
+  "dependencies": {
+    "codeceptjs": "*",
+    "webdriverio": "*"
+  },
+  "license": "MIT",
+  "homepage": "http://codecept.io"
+}
