@@ -1,6 +1,6 @@
 {
   "name": "codeceptjs-webdriverio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CodeceptJS with WebDriverIO installed",
   "main": "index.js",
   "repository": {
@@ -11,6 +11,9 @@
     "codeceptjs",
     "webdriverio"
   ],
+  "bin": {
+    "codeceptjs": "codecept.js"
+  },
   "author": {
     "name": "DavertMik",
     "email": "davert@codegyre.com",
