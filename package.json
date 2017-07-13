@@ -1,6 +1,6 @@
 {
   "name": "codeceptjs-webdriverio",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "CodeceptJS with WebDriverIO installed",
   "main": "index.js",
   "repository": {
