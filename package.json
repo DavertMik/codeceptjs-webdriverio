@@ -20,8 +20,8 @@
     "url": "http://codegyre.com"
   },
   "dependencies": {
-    "codeceptjs": "*",
-    "webdriverio": "*"
+    "codeceptjs": "^1.1.0",
+    "webdriverio": "^4.0.0"
   },
   "license": "MIT",
   "homepage": "http://codecept.io"
